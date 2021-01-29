@@ -32,6 +32,8 @@ No additional features have been implemented
 [Here's a walkthrough of implemented user stories](https://www.dropbox.com/s/7po6gxijimp4ev1/TodoListApp.gif)
 [Here's a second walkthrough with extensions](https://www.dropbox.com/s/ahgyedow24utfr3/TodoListApp-extensions.gif)
 
+<img src'walkingthrough.gif' title='vedio Walkingthrough' width'' alt='Video Walkthrough'/>
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
